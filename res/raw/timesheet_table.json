@@ -1,0 +1,83 @@
+{
+	"weekSelection": {
+		"year": 2013,
+		"week": "40B",
+		"userLogin": "1162",
+		"rights": 32
+	},
+	"timesheetTableRows": [
+		{
+			"customerNo": 11882,
+			"customer": "Altran Norway AS /SEK",
+			"jobNo": 752183,
+			"project": "Norsk Kennel Klub",
+			"taskCode": "B115",
+			"task": "Consultancy hours",
+			"description": "bugfix",
+			"lineId": 664389,
+			"days": [
+				{
+					"entryNo": 0,
+					"hours": 0
+				}, {
+					"entryNo": 0,
+					"hours": 0
+				}, {
+					"entryNo": 664389,
+					"hours": 1
+				}, {
+					"entryNo": 0,
+					"hours": 0
+				}, {
+					"entryNo": 0,
+					"hours": 0
+				}, {
+					"entryNo": 0,
+					"hours": 0
+				}, {
+					"entryNo": 0,
+					"hours": 0
+				}
+			]
+		}, {
+			"customerNo": 1,
+			"customer": "Altran Sverige",
+			"jobNo": 750108,
+			"project": "Idle",
+			"taskCode": "N201",
+			"task": "Internal time",
+			"description": "",
+			"lineId": 664390,
+			"days": [
+				{
+					"entryNo": 0,
+					"hours": 0
+				}, {
+					"entryNo": 664390,
+					"hours": 8
+				}, {
+					"entryNo": 664391,
+					"hours": 7
+				}, {
+					"entryNo": 664392,
+					"hours": 8
+				}, {
+					"entryNo": 664393,
+					"hours": 8
+				}, {
+					"entryNo": 0,
+					"hours": 0
+				}, {
+					"entryNo": 0,
+					"hours": 0
+				}
+			]
+		}
+	],
+	"timesheetStatus": "SIGNED_BY_MANAGER",
+	"currentDate": {
+		"year": 2013,
+		"month": 10,
+		"day": 9
+	}
+}

@@ -1,0 +1,11 @@
+*.log
+
+# Eclipse
+/.metadata
+/.classpath
+/.project
+/.settings
+/.target
+/bin
+/target
+/gen
